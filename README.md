@@ -41,6 +41,7 @@ También anunciamos públicamente el lanzamiento de Gymnasium, una biblioteca do
 https://gymnasium.farama.org/environments/box2d/lunar_lander/
 Utilizamos este entorno para el último ejemplo.
  
+
 GITHUB
 
 https://github.com/github
